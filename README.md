@@ -1,5 +1,5 @@
 # Census_evaluation_USA
-This repository contains my first project made using ML
+This is the project I have made from what I learnt so far in ML.
 The Data provided is the population census of USA taken in different years.
 It contains features such as region, population and year of record which are categorised as under18 and total population.
 My model uses SVM to classify whether the population data is of under 18 or total population using population, year of record according to region.
